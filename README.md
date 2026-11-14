@@ -16,9 +16,13 @@ A Python Data Visualization project by **Iram** to analyze student performance u
 ## 📂 Project Structure
 data-visualisation-with-matplotlib/
 ├── visualization.py
+
 ├── bar_chart.png
+
 ├── line_chart.png
+
 ├── pie_chart.png
+
 └── README.md
 
 ## ▶️ How to Run

@@ -14,7 +14,8 @@ A Python Data Visualization project by **Iram** to analyze student performance u
 - Matplotlib
 
 ## 📂 Project Structure
-data-visualisation-with-matplotlib/
+data-visualisation-with-matplotlib
+
 ├── visualization.py
 
 ├── bar_chart.png
